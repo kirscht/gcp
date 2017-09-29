@@ -11,3 +11,8 @@
 ## Example Weather Info for Anaheim, CA ##
              
       curl https://weather-181405.appspot.com/Anaheim%2C%20CA
+      
+# Approach #
+
+My preferred choice was "Google Cloud Functions," but the service is still in Beta and only supports node.js currently.  Node.js is not something that I've done a lot of programming in.
+ 
