@@ -4,10 +4,10 @@
                           
  ## Usage: ##
 
-    http://<url-to-tool>/<city>%2C%20<two-letter-abbrev-state>
+    https://weather-181405.appspot.com/<city>%2C%20<two-letter-abbrev-state>
              
              
    
 ## Example Weather Info for Anaheim, CA ##
              
-      curl http://<url-to-tool>/Anaheim%2C%20CA
+      curl https://weather-181405.appspot.com//Anaheim%2C%20CA
