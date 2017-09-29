@@ -10,4 +10,4 @@
    
 ## Example Weather Info for Anaheim, CA ##
              
-      curl https://weather-181405.appspot.com//Anaheim%2C%20CA
+      curl https://weather-181405.appspot.com/Anaheim%2C%20CA
